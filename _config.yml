@@ -108,15 +108,15 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Carr"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a certified computer geek who has always had a passion for all things tech. I fell in love with software development and computers from a really young age. My mom still has a photo from career day in middle school where I talked about being a computer engineer when I grew up. My passion only grew from there."
-  location         : "Jacksonville"
+  avatar           : "/images/apple1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a certified computer geek who has always had a passion for all things tech."
+  location         : "Jacksonville, FL"
   email            : "jay.carr@live.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jay.carr@live.com
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://linkedin.com/in/carrjonathan"
     - label: "Twitter"
