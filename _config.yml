@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Jonathan Carr"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Always Go Beyond"
 name                     : "Jonathan Carr"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "Data Science Portfolio."
+url                      : "https://jaycarrltd.github.io"
+baseurl                  : "/portfolio" 
+repository               : "jaycarrltd/Investigate_a_Dataset" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jonathan Carr"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a certified computer geek who has always had a passion for all things tech. I fell in love with software development and computers from a really young age. My mom still has a photo from career day in middle school where I talked about being a computer engineer when I grew up. My passion only grew from there."
+  location         : "Jacksonville, FL"
+  email            : "jay.carr@live.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      mailto:jay.carr@live.com # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      "https://github.com/jaycarrltd" # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -294,3 +294,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+#_pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
