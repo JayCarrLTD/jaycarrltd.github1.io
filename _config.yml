@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jonathan Carr"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a certified computer geek who has always had a passion for all things tech. I fell in love with software development and computers from a really young age. My mom still has a photo from career day in middle school where I talked about being a computer engineer when I grew up. My passion only grew from there."
   location         : "Jacksonville"
   email            : "jay.carr@live.com"
   links:
@@ -118,7 +118,7 @@ author:
       url: mailto:jay.carr@live.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://linkedin.com/in/carrjonathan
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jaycarrltd"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jaycarrltd"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
