@@ -1,10 +1,9 @@
 ---
-title: "Invetigate a Dataset"
+title: "Investigate a Dataset"
 date: 2019-09-15
 tags: [data, analtics, investigate]
 header:
-    image:'/images/apple1.jpg"
-excerpt: "Testing"
+excerpt: "Analatical assessment of a dataset"
 ---
 
 # Heading 1
