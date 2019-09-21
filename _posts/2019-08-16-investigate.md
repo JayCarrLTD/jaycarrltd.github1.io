@@ -3,7 +3,7 @@ title: "Investigate a Dataset"
 date: 2019-09-15
 tags: [data, analtics, investigate]
 header:
-excerpt: "Analatical assessment of a dataset"
+excerpt: "Analytical assessment of a dataset"
 ---
 
 # Heading 1
